@@ -1,5 +1,5 @@
 - 👋 Hola! Soy @naufragotech
-- 👀 Mi nombre real es José Gómnez
+- 🔥 Mi nombre real es José Gómez
 - 💻 Soy programador Full Stack
 - 💯 Python, HTML, CSS, JavaScript
 - 🤓 Tengo alma de nerd
