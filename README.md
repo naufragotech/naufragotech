@@ -14,7 +14,7 @@ Aquí mis proyectos favoritos culminados exitosamente:
 Me encanta ser Desarrollador Freelance, así que actualmente me encuentro desarrollando los siguientes proyectos:
 * **e-Commerce ERP:** Un ERP para una tienda virtual de productos de papelería. Conteniene módulos de Productos, Compras, Ventas, Contabilidad y Analytics
 * **Portafolio de Artista:** Página web para mostrar los trabajos y carrera de [La Nena Lettering](https://www.instagram.com/lanena.lettering)
-* **Cast-Data:** *[Poyecto propio]* Aplicación web para dar seguimiento al movimiento de acciones (stock screener)
+* **Cast-Data:** Aplicación web para dar seguimiento al movimiento de acciones (stock screener)
 
 
 # Curiosidades 🦝
