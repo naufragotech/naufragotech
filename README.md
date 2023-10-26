@@ -1,7 +1,7 @@
 # Hola! Soy Naufrago Tech 👋 
 
 * Desarrollador Full Stack con dominio en Python, HTML, CSS, JavaScript 💯
-* Mi nombre real es José Gómez, tengo 29 años y me encuentro en Perú 😌
+* Me llamo José Gómez, tengo 29 años y me encuentro en Perú 😌
 * Me apasiona la programación y la tecnología en general! 💻
 
 # Proyectos Destacados 🔥
@@ -12,7 +12,7 @@ Aquí mis proyectos favoritos culminados exitosamente:
 
 # ¿En qué ando? 👨‍💻
 Me encanta ser Desarrollador Freelance, así que actualmente me encuentro desarrollando los siguientes proyectos:
-* **e-Commerce ERP:** Un ERP para una tienda virtual de productos de papelería. Conteniene módulos de Productos, Compras, Ventas, Contabilidad y Analytics
+* **e-Commerce ERP:** Un ERP para una tienda virtual de productos de papelería. Contiene módulos de Productos, Compras, Ventas, Contabilidad y Analytics
 * **Portafolio de Artista:** Página web para mostrar los trabajos y carrera de [La Nena Lettering](https://www.instagram.com/lanena.lettering)
 * **Cast-Data:** Aplicación web para dar seguimiento al movimiento de acciones (stock screener)
 
