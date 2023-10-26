@@ -6,8 +6,8 @@
 
 # Proyectos Destacados 🔥
 Aquí mis proyectos favoritos culminados exitosamente:
-* Todoro ⏱️: Una aplicación de To-do list con temporizador Pomodoro [GitHub](https://github.com/naufragotech/Todoro) [Demo](https://naufragotech.github.io/Todoro/)
-* Galería de Fotos 📷: Página web responsive de fotos con estilo Masonry, sin librerías / CSS puro [GitHub](https://github.com/naufragotech/photo_gallery) [Demo](https://naufragotech.github.io/photo_gallery/)
+* **Todoro ⏱️:** Una aplicación de To-do list con temporizador Pomodoro [GitHub](https://github.com/naufragotech/Todoro) [Demo](https://naufragotech.github.io/Todoro/)
+* **Galería de Fotos 📷:** Página web responsive de fotos con estilo Masonry, sin librerías / CSS puro [GitHub](https://github.com/naufragotech/photo_gallery) [Demo](https://naufragotech.github.io/photo_gallery/)
 
 
 # ¿En qué ando? 👨‍💻
