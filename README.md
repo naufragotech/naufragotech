@@ -1,11 +1,12 @@
 # Hola! Soy Naufrago Tech 👋 
 
 * Desarrollador Full Stack con dominio en Python, HTML, CSS, JavaScript 💯
-* Me llamo José Gómez, tengo 29 años y me encuentro en Perú 😌
+* Me llamo José Gómez, tengo 30 años y me encuentro en Perú 😌
 * Me apasiona la programación y la tecnología en general! 💻
 
 # Proyectos Destacados 🔥
 Aquí mis proyectos favoritos culminados exitosamente:
+* **Cast Tracker 💸:** Una aplicación para dar seguimiento a tus Finanzas Personales [Demo](https://cast-tracker.onrender.com/)
 * **Todoro ⏱️:** Una aplicación de To-do list con temporizador Pomodoro [GitHub](https://github.com/naufragotech/Todoro) [Demo](https://naufragotech.github.io/Todoro/)
 * **Galería de Fotos 📷:** Página web responsive de fotos con estilo Masonry, sin librerías / CSS puro [GitHub](https://github.com/naufragotech/photo_gallery) [Demo](https://naufragotech.github.io/photo_gallery/)
 
